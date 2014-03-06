@@ -3,3 +3,16 @@ ciaociao
 loooooooooool
 
 abou è sexy
+
+abubuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+bool il_simo_e'_un_pottino;
+cout<<"simo pottino";
+cin>>il_simo_e'_un_pottino;
+if(il_imoe'_un_pottino == true)
+{
+  cout<<"hai capito tutto";
+}
+else
+{
+  cout"ABUBUUUUUUUUUUUUUUUUU";
+}
